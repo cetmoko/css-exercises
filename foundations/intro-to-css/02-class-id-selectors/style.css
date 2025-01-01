@@ -1,0 +1,19 @@
+.common,.num3 {
+    background-color: #ff00005d;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+.num2 {
+    font-size: 36px;
+    color: blue;
+}
+
+.num4 {
+    background-color: #10d61050;
+    font-size: 24px;
+    font-weight: bold;
+}
